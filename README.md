@@ -1,2 +1,8 @@
-# Connectz
-Connectz is an online chatting application with various features facilitating convenient, simple and secure  environment for communication and knowledge sharing.Connectz provides users with various features facilitating convenient, simple and secure environment for communication and knowledge sharing. Key features such as user authentication, community building, and knowledge sharing form the cornerstone of the platform, empowering users to sign up, create profiles, login and engage in vibrant communities aligned with their interests. The User Registration and Login functionality streamlines the onboarding process, allowing users to easily sign up using their details or email and subsequently log in with the same credentials. This ensures a hassle-free experience, fostering user engagement from the outset.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
